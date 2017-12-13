@@ -70,7 +70,7 @@ Add the dependency:
 <dependency>
     <groupId>org.jetbrains.kotlinx</groupId>
     <artifactId>kotlinx.reflect.lite</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
 </dependency>
 ```
 
@@ -87,7 +87,7 @@ repositories {
 Add the dependency:
 
 ```groovy
-compile 'org.jetbrains.kotlinx:kotlinx.reflect.lite:1.0.0'
+compile 'org.jetbrains.kotlinx:kotlinx.reflect.lite:1.1.0'
 ```
 
 ## FAQ
